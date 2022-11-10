@@ -30,6 +30,14 @@
   color: #fff;
   font-size: 100px;
 }
+.servicesText {
+
+  background-position: center;
+  background-size: cover;
+  background-repeat: repeat;
+  color: #000;
+  font-size: 40px;
+}
 
 .recicly {
   background-image: url('/images/img-recicly.jpg');
